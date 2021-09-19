@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>MY MANAGER 🇮🇳</b>
+  <b>MY MANAGERby aditya 🇮🇳</b>
 </h1>
 
 <p align="center">
